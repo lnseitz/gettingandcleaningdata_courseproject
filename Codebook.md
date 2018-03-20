@@ -1,4 +1,4 @@
-Codebook for table MeanandStd_table
+Codebook for TidySet2.txt
 
 The following columns contain information about the mean and standard deviation values:
 tBodyAcc-mean()-X
